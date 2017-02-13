@@ -1,0 +1,15 @@
+INFO    2017-02-13 20:06:33,247 [Bitbucket] com.eidiko.util.Commons  - Loading Depot page
+INFO    2017-02-13 20:06:39,708 [Bitbucket] com.eidiko.util.Commons  - Login link is clicked
+INFO    2017-02-13 20:06:41,932 [Bitbucket] com.eidiko.util.Commons  - Entered Email Id to login
+INFO    2017-02-13 20:06:42,028 [Bitbucket] com.eidiko.util.Commons  - Click Next Verify Email Id
+INFO    2017-02-13 20:06:42,074 [Bitbucket] com.eidiko.util.Commons  - Entered password to login
+INFO    2017-02-13 20:06:54,573 [Bitbucket] com.eidiko.util.Commons  - Click Sign In Button
+INFO    2017-02-13 20:06:54,640 [Bitbucket] com.eidiko.util.Commons  - Load Page with Application List
+INFO    2017-02-13 20:07:00,064 [Bitbucket] com.eidiko.integrations.Bitbucket  - Loading Bitbucket Page
+ERROR   2017-02-13 20:07:03,558 [Bitbucket] com.eidiko.integrations.Bitbucket  - Error at : Loading Bitbucket Page -- Exception : The element reference is stale. Either the element is no longer attached to the DOM or the page has been refreshed.
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'WIN-1063Rakesh', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, marionette=true, firefoxOptions={args=[], prefs={}}, appBuildId=20170125094131, version=, platform=XP, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, processId=1508, browserVersion=51.0.1, platformVersion=6.1, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=windows_nt}]
+Session ID: af7c2620-4242-4548-9e2f-cc60e2534733

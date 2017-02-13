@@ -1,0 +1,13 @@
+INFO    2017-02-13 20:11:19,923 [Bitbucket] com.eidiko.util.Commons  - Loading Depot page
+INFO    2017-02-13 20:11:26,560 [Bitbucket] com.eidiko.util.Commons  - Login link is clicked
+INFO    2017-02-13 20:11:28,763 [Bitbucket] com.eidiko.util.Commons  - Entered Email Id to login
+INFO    2017-02-13 20:11:28,869 [Bitbucket] com.eidiko.util.Commons  - Click Next Verify Email Id
+INFO    2017-02-13 20:11:28,913 [Bitbucket] com.eidiko.util.Commons  - Entered password to login
+INFO    2017-02-13 20:11:37,733 [Bitbucket] com.eidiko.util.Commons  - Click Sign In Button
+INFO    2017-02-13 20:11:37,789 [Bitbucket] com.eidiko.util.Commons  - Load Page with Application List
+ERROR   2017-02-13 20:12:37,866 [Bitbucket] com.eidiko.integrations.Bitbucket  - Error at : Load Page with Application List -- Exception : Expected condition failed: waiting for visibility of element located by By.xpath: //*[@id='content']/div/header/div/nav[1]/ul/li[2]/ul/li[2]/a/span (tried for 60 second(s) with 500 MILLISECONDS interval)
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'WIN-1063Rakesh', ip: '192.168.56.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{rotatable=false, raisesAccessibilityExceptions=false, marionette=true, firefoxOptions={args=[], prefs={}}, appBuildId=20170125094131, version=, platform=XP, proxy={}, command_id=1, specificationLevel=0, acceptSslCerts=false, processId=35376, browserVersion=51.0.1, platformVersion=6.1, XULappId={ec8030f7-c20a-464f-9b0e-13a3a9e97384}, browserName=firefox, takesScreenshot=true, takesElementScreenshot=true, platformName=windows_nt}]
+Session ID: 0a808fb1-8117-4b81-81cc-26b36446d811
