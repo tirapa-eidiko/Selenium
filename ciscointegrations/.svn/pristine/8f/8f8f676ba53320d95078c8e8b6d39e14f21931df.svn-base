@@ -1,0 +1,101 @@
+INFO    2017-02-13 16:27:09,600 [Bitbucket] com.eidiko.util.Commons  - Loading Depot page
+INFO    2017-02-13 16:27:16,127 [Bitbucket] com.eidiko.util.Commons  - Login link is clicked
+INFO    2017-02-13 16:27:18,399 [Bitbucket] com.eidiko.util.Commons  - Entered Email Id to login
+INFO    2017-02-13 16:27:18,586 [Bitbucket] com.eidiko.util.Commons  - Click Next Verify Email Id
+INFO    2017-02-13 16:27:18,637 [Bitbucket] com.eidiko.util.Commons  - Entered password to login
+INFO    2017-02-13 16:27:27,948 [Bitbucket] com.eidiko.util.Commons  - Click Sign In Button
+INFO    2017-02-13 16:27:27,985 [Bitbucket] com.eidiko.util.Commons  - Load Page with Application List
+INFO    2017-02-13 16:27:42,319 [Bitbucket] com.eidiko.util.Commons  - Click Connect button
+INFO    2017-02-13 16:27:42,393 [Bitbucket] com.eidiko.util.Commons  - Click Accept button
+INFO    2017-02-13 16:27:47,130 [Bitbucket] com.eidiko.util.Commons  - Set focus to iframe
+INFO    2017-02-13 16:27:55,351 [Bitbucket] com.eidiko.util.Commons  - Click Add button
+INFO    2017-02-13 16:28:07,138 [Bitbucket] com.eidiko.util.Commons  - Set focus to iframe
+INFO    2017-02-13 16:28:13,428 [Bitbucket] com.eidiko.util.Commons  - Scroll to element
+INFO    2017-02-13 16:28:13,435 [Bitbucket] com.eidiko.util.Commons  - Select from Dropdown
+INFO    2017-02-13 16:28:15,671 [Bitbucket] com.eidiko.util.Commons  - Select notification
+INFO    2017-02-13 16:28:15,778 [Bitbucket] com.eidiko.util.Commons  - Scroll up to Cisco Room Dropdown
+INFO    2017-02-13 16:28:15,787 [Bitbucket] com.eidiko.util.Commons  - Scroll to element
+INFO    2017-02-13 16:28:15,795 [Bitbucket] com.eidiko.util.Commons  - Enter Description
+INFO    2017-02-13 16:28:15,837 [Bitbucket] com.eidiko.util.Commons  - Cisco Spark room selected
+INFO    2017-02-13 16:28:15,982 [Bitbucket] com.eidiko.util.Commons  - Select Spark room
+INFO    2017-02-13 16:28:19,813 [Bitbucket] com.eidiko.util.Commons  - Click X button
+INFO    2017-02-13 16:28:23,047 [Bitbucket] com.eidiko.util.Commons  - Click Remove button
+INFO    2017-02-13 16:28:25,252 [Bitbucket] com.eidiko.util.Commons  - Click Disconnect button
+INFO    2017-02-13 16:28:27,356 [Bitbucket] com.eidiko.util.Commons  - Click OK button
+INFO    2017-02-13 16:43:41,890 [Bitbucket] com.eidiko.util.Commons  - Loading Depot page
+INFO    2017-02-13 16:43:48,057 [Bitbucket] com.eidiko.util.Commons  - Login link is clicked
+INFO    2017-02-13 16:43:50,283 [Bitbucket] com.eidiko.util.Commons  - Entered Email Id to login
+INFO    2017-02-13 16:43:50,448 [Bitbucket] com.eidiko.util.Commons  - Click Next Verify Email Id
+INFO    2017-02-13 16:43:50,500 [Bitbucket] com.eidiko.util.Commons  - Entered password to login
+INFO    2017-02-13 16:43:59,352 [Bitbucket] com.eidiko.util.Commons  - Click Sign In Button
+INFO    2017-02-13 16:43:59,385 [Bitbucket] com.eidiko.util.Commons  - Load Page with Application List
+INFO    2017-02-13 16:44:12,904 [Bitbucket] com.eidiko.util.Commons  - Click Connect button
+INFO    2017-02-13 16:44:12,970 [Bitbucket] com.eidiko.util.Commons  - Click Accept button
+INFO    2017-02-13 16:44:17,689 [Bitbucket] com.eidiko.util.Commons  - Set focus to iframe
+INFO    2017-02-13 16:44:24,824 [Bitbucket] com.eidiko.util.Commons  - Click Add button
+INFO    2017-02-13 16:44:37,674 [Bitbucket] com.eidiko.util.Commons  - Set focus to iframe
+INFO    2017-02-13 16:44:46,395 [Bitbucket] com.eidiko.util.Commons  - Scroll to element
+INFO    2017-02-13 16:44:46,402 [Bitbucket] com.eidiko.util.Commons  - Select from Dropdown
+INFO    2017-02-13 16:44:48,558 [Bitbucket] com.eidiko.util.Commons  - Select notification
+INFO    2017-02-13 16:44:48,700 [Bitbucket] com.eidiko.util.Commons  - Scroll up to Cisco Room Dropdown
+INFO    2017-02-13 16:44:48,710 [Bitbucket] com.eidiko.util.Commons  - Scroll to element
+INFO    2017-02-13 16:44:48,720 [Bitbucket] com.eidiko.util.Commons  - Enter Description
+INFO    2017-02-13 16:44:48,772 [Bitbucket] com.eidiko.util.Commons  - Cisco Spark room selected
+INFO    2017-02-13 16:44:48,939 [Bitbucket] com.eidiko.util.Commons  - Select Spark room
+INFO    2017-02-13 16:44:52,837 [Bitbucket] com.eidiko.util.Commons  - Click X button
+INFO    2017-02-13 16:44:55,997 [Bitbucket] com.eidiko.util.Commons  - Click Remove button
+INFO    2017-02-13 16:44:58,200 [Bitbucket] com.eidiko.util.Commons  - Click Disconnect button
+INFO    2017-02-13 16:45:00,295 [Bitbucket] com.eidiko.util.Commons  - Click OK button
+INFO    2017-02-13 16:50:43,614 [Bitbucket] com.eidiko.util.Commons  - Loading Depot page
+INFO    2017-02-13 16:50:49,785 [Bitbucket] com.eidiko.util.Commons  - Login link is clicked
+INFO    2017-02-13 16:50:52,001 [Bitbucket] com.eidiko.util.Commons  - Entered Email Id to login
+INFO    2017-02-13 16:50:52,150 [Bitbucket] com.eidiko.util.Commons  - Click Next Verify Email Id
+INFO    2017-02-13 16:50:52,193 [Bitbucket] com.eidiko.util.Commons  - Entered password to login
+INFO    2017-02-13 16:51:01,532 [Bitbucket] com.eidiko.util.Commons  - Click Sign In Button
+INFO    2017-02-13 16:51:01,586 [Bitbucket] com.eidiko.util.Commons  - Load Page with Application List
+INFO    2017-02-13 16:51:14,886 [Bitbucket] com.eidiko.util.Commons  - Click Connect button
+INFO    2017-02-13 16:51:14,976 [Bitbucket] com.eidiko.util.Commons  - Click Accept button
+INFO    2017-02-13 16:51:19,662 [Bitbucket] com.eidiko.util.Commons  - Set focus to iframe
+INFO    2017-02-13 16:51:27,380 [Bitbucket] com.eidiko.util.Commons  - Click Add button
+INFO    2017-02-13 16:51:40,150 [Bitbucket] com.eidiko.util.Commons  - Set focus to iframe
+INFO    2017-02-13 16:51:47,100 [Bitbucket] com.eidiko.util.Commons  - Scroll to element
+INFO    2017-02-13 16:51:47,108 [Bitbucket] com.eidiko.util.Commons  - Select from Dropdown
+INFO    2017-02-13 16:51:49,274 [Bitbucket] com.eidiko.util.Commons  - Select notification
+INFO    2017-02-13 16:51:49,336 [Bitbucket] com.eidiko.util.Commons  - Scroll up to Cisco Room Dropdown
+INFO    2017-02-13 16:51:49,347 [Bitbucket] com.eidiko.util.Commons  - Scroll to element
+INFO    2017-02-13 16:51:49,354 [Bitbucket] com.eidiko.util.Commons  - Enter Description
+INFO    2017-02-13 16:51:49,397 [Bitbucket] com.eidiko.util.Commons  - Cisco Spark room selected
+INFO    2017-02-13 16:51:49,525 [Bitbucket] com.eidiko.util.Commons  - Select Spark room
+INFO    2017-02-13 16:51:53,394 [Bitbucket] com.eidiko.util.Commons  - Click X button
+INFO    2017-02-13 16:51:56,597 [Bitbucket] com.eidiko.util.Commons  - Click Remove button
+INFO    2017-02-13 16:51:58,867 [Bitbucket] com.eidiko.util.Commons  - Click Disconnect button
+INFO    2017-02-13 16:52:00,971 [Bitbucket] com.eidiko.util.Commons  - Click OK button
+INFO    2017-02-13 18:18:06,398 [Bitbucket] com.eidiko.util.Commons  - Loading Depot page
+INFO    2017-02-13 18:18:13,099 [Bitbucket] com.eidiko.util.Commons  - Login link is clicked
+INFO    2017-02-13 18:18:15,355 [Bitbucket] com.eidiko.util.Commons  - Entered Email Id to login
+INFO    2017-02-13 18:18:15,546 [Bitbucket] com.eidiko.util.Commons  - Click Next Verify Email Id
+INFO    2017-02-13 18:18:15,633 [Bitbucket] com.eidiko.util.Commons  - Entered password to login
+INFO    2017-02-13 18:18:24,419 [Bitbucket] com.eidiko.util.Commons  - Click Sign In Button
+INFO    2017-02-13 18:18:24,464 [Bitbucket] com.eidiko.util.Commons  - Load Page with Application List
+INFO    2017-02-13 18:18:33,093 [Bitbucket] com.eidiko.integrations.Bitbucket  - Loading Bitbucket Page
+INFO    2017-02-13 18:18:38,093 [Bitbucket] com.eidiko.util.Commons  - Click Connect button
+INFO    2017-02-13 18:18:38,155 [Bitbucket] com.eidiko.util.Commons  - Click Accept button
+INFO    2017-02-13 18:18:42,835 [Bitbucket] com.eidiko.util.Commons  - Set focus to iframe
+INFO    2017-02-13 18:18:50,753 [Bitbucket] com.eidiko.util.Commons  - Click Add button
+INFO    2017-02-13 18:18:58,038 [Bitbucket] com.eidiko.integrations.Bitbucket  - Enter bitbucket email id
+INFO    2017-02-13 18:19:00,124 [Bitbucket] com.eidiko.integrations.Bitbucket  - Enter bitbucket password
+INFO    2017-02-13 18:19:02,931 [Bitbucket] com.eidiko.integrations.Bitbucket  - Click Login button
+INFO    2017-02-13 18:19:02,932 [Bitbucket] com.eidiko.util.Commons  - Set focus to iframe
+INFO    2017-02-13 18:19:08,890 [Bitbucket] com.eidiko.util.Commons  - Scroll to element
+INFO    2017-02-13 18:19:08,900 [Bitbucket] com.eidiko.util.Commons  - Select from Dropdown
+INFO    2017-02-13 18:19:11,098 [Bitbucket] com.eidiko.integrations.Bitbucket  - Select repositories
+INFO    2017-02-13 18:19:11,098 [Bitbucket] com.eidiko.util.Commons  - Select notification
+INFO    2017-02-13 18:19:11,235 [Bitbucket] com.eidiko.util.Commons  - Scroll up to Cisco Room Dropdown
+INFO    2017-02-13 18:19:11,244 [Bitbucket] com.eidiko.util.Commons  - Scroll to element
+INFO    2017-02-13 18:19:11,252 [Bitbucket] com.eidiko.util.Commons  - Enter Description
+INFO    2017-02-13 18:19:11,296 [Bitbucket] com.eidiko.util.Commons  - Cisco Spark room selected
+INFO    2017-02-13 18:19:11,453 [Bitbucket] com.eidiko.util.Commons  - Select Spark room
+INFO    2017-02-13 18:19:15,297 [Bitbucket] com.eidiko.util.Commons  - Click X button
+INFO    2017-02-13 18:19:18,566 [Bitbucket] com.eidiko.util.Commons  - Click Remove button
+INFO    2017-02-13 18:19:20,788 [Bitbucket] com.eidiko.util.Commons  - Click Disconnect button
+INFO    2017-02-13 18:19:22,887 [Bitbucket] com.eidiko.util.Commons  - Click OK button

@@ -1,0 +1,36 @@
+#Cisco Spark Authentication Code
+authentication=NTM5M2Q5MjEtYmYwYS00ZWU4LThiZDQtYzVhOTM2ZDMyYzM4M2Y0MDE2YzktNTI3
+#Cisco Spark Room Id
+roomid=Y2lzY29zcGFyazovL3VzL1JPT00vYjZlYmVjNTAtZWVhOC0xMWU2LTk5OGItZmI1ZTMyMmI5YTQ3
+
+screenshots=C:/Users/Bandaru/Desktop/SeleniumLast/Screenshots
+log=C:/Users/Bandaru/Desktop/SeleniumLast/Logs
+geckodriver=C:/Users/Bandaru/Desktop/SeleniumLast/InputExcels/geckodriver.exe
+chromedriver=C:/Users/Bandaru/Desktop/SeleniumLast/InputExcels/chromedriver.exe
+commonfile=C:/Users/Bandaru/Desktop/SeleniumLast/InputExcels/Common.xlsx
+
+bitbucketfile=C:/Users/Bandaru/Desktop/SeleniumLast/InputExcels/Bitbucket.xlsx
+onedrivefile=C:/Users/Bandaru/Desktop/SeleniumLast/InputExcels/OneDrive.xlsx
+trellofile=C:/Users/Bandaru/Desktop/SeleniumLast/InputExcels/Trello.xlsx
+boxfile=C:/Users/Bandaru/Desktop/SeleniumLast/InputExcels/Box.xlsx
+salesforcefile=C:/Users/Bandaru/Desktop/SeleniumLast/InputExcels/Salesforce.xlsx
+servicenowfile=C:/Users/Bandaru/Desktop/SeleniumLast/InputExcels/ServiceNow.xlsx
+newrelicfile=C:/Users/Bandaru/Desktop/SeleniumLast/InputExcels/NewRelic.xlsx
+codeshipfile=C:/Users/Bandaru/Desktop/SeleniumLast/InputExcels/Codeship.xlsx
+pagerdutyfile=C:/Users/Bandaru/Desktop/SeleniumLast/InputExcels/PagerDuty.xlsx
+zendeskfile=C:/Users/Bandaru/Desktop/SeleniumLast/InputExcels/Zendesk.xlsx
+jirafile=C:/Users/Bandaru/Desktop/SeleniumLast/InputExcels/Jira.xlsx
+
+
+
+runbitbucket=true
+runonedrive=false
+runtrello=true
+runbox=true
+runsalesforce=true
+runservicenow=true
+runnewrelic=true
+runcodeship=true
+runpagerduty=true
+runzendesk=false
+runjira=true

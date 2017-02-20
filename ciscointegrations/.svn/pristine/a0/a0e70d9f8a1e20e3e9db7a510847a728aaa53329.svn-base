@@ -1,0 +1,8 @@
+screenshots=D:/SeleniumWorkspace/EventTriggering/Screenshots
+log=D:/SeleniumWorkspace/Logs
+geckodriver=D:/SeleniumWorkspace/EventTriggering/drivers/geckodriver.exe
+chromedriver=D:/SeleniumWorkspace/EventTriggering/drivers/chromedriver.exe
+
+xcelfile=D:/SeleniumWorkspace/EventTriggering/events.xlsx
+
+

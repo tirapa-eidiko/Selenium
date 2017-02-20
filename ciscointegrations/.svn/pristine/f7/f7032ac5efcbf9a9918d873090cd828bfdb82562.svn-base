@@ -1,0 +1,30 @@
+#Firefox Web Driver
+geckodriver=C:/ciscointegrations/geckodriver.exe
+
+chromedriver=C:/ciscointegrations/chromedriver.exe
+
+#Cisco Spark Authentication Code
+authentication=NTM5M2Q5MjEtYmYwYS00ZWU4LThiZDQtYzVhOTM2ZDMyYzM4M2Y0MDE2YzktNTI3
+
+#Cisco Spark Room Id
+roomid=Y2lzY29zcGFyazovL3VzL1JPT00vYjZlYmVjNTAtZWVhOC0xMWU2LTk5OGItZmI1ZTMyMmI5YTQ3
+
+
+
+bitbucketfile=C:/ciscointegrations/ExcelData/BitBucket.xlsx
+trellofile=C:/ciscointegrations/ExcelData/Trello.xlsx
+githubfile=C:/ciscointegrations/ExcelData/GitHub.xlsx
+pagerdutyfile=C:/ciscointegrations/ExcelData/Pagerduty.xlsx
+codeshipfile=C:/ciscointegrations/ExcelData/Codeship.xlsx
+boxfile=C:/ciscointegrations/ExcelData/Box.xlsx
+jirafile=C:/ciscointegrations/ExcelData/Jira.xlsx
+mailchimpfile=C:/ciscointegrations/ExcelData/Mailchimp.xlsx
+wunderlistfile=C:/ciscointegrations/ExcelData/Wunderlist.xlsx
+googledrivefile=C:/ciscointegrations/ExcelData/Goolgedrive.xlsx
+newrelicfile=C:/ciscointegrations/ExcelData/NewRelic.xlsx
+salesforcefile=C:/ciscointegrations/ExcelData/Salesforce.xlsx
+dropboxfile=C:/ciscointegrations/ExcelData/Dropbox.xlsx
+zendeskfile=C:/ciscointegrations/ExcelData/Zendesk.xlsx
+servicenowfile=C:/ciscointegrations/ExcelData/ServiceNow.xlsx
+jenkinsfile=C:/ciscointegrations/ExcelData/Jenkins.xlsx
+onedrivefile=C:/ciscointegrations/ExcelData/OneDrive.xlsx
